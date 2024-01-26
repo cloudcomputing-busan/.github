@@ -28,3 +28,30 @@
     ]
 }
 ```
+
+```json
+{
+    "Awards": {
+        "1stPlace": {
+            "School": "",
+            "Score": "",
+            "Prize": "800,000원"
+        },
+        "2ndPlace": {
+            "School": "",
+            "Score": "",
+            "Prize": "600,000원"
+        },
+        "3rdPlace": {
+            "School": "",
+            "Score": "",
+            "Prize": "300,000원"
+        },
+        "Runner-Up": {
+            "School": "",
+            "Score": "",
+            "Prize": "100,000원"
+        }
+    }
+}
+```
