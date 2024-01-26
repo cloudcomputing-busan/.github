@@ -6,7 +6,8 @@
     "Skills": ["AWS", "Docker", "Kubernetes", "Terraform"],
     "Laguage": ["Java", "Python", "Golang"],
     "Competitors": [
-        { "부산컴퓨터과학고등학교"
+        {
+          "부산컴퓨터과학고등학교"
           [
             "이사빈",
             "김도원",
@@ -15,7 +16,8 @@
             "이상현"
           ]
         },
-        { "대양고등학교"
+        {
+          "대양고등학교"
           [
             "이진혁",
             "이상현",
